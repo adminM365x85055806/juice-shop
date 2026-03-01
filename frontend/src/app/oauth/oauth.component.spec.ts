@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: MIT
  */
 
+
 import { type ComponentFixture, fakeAsync, TestBed, waitForAsync } from '@angular/core/testing'
 import { TranslateModule } from '@ngx-translate/core'
 import { MatIconModule } from '@angular/material/icon'
